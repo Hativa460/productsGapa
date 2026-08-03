@@ -1,5 +1,10 @@
 {
     "195": [
+         {
+          "name": "תפעול ממסרת ומנוע",
+          "link": "https://hativa460.github.io/195tusk/",
+          "icon": "phone"  
+        },
         {
           "name": "אתת מכלול והצפנות- סרטוני קשר",
           "link": "https://drive.google.com/file/d/1cKT6H3QZJ_fs0rPvFldO-fWJS-DWMci5/view?usp=sharing",
@@ -36,18 +41,13 @@
           "icon": "vid"  
         },
                 {
-          "name": "טפ\"ש חלק א",
-          "link": "https://drive.google.com/file/d/18X5_aFB6WMfJDT3YLGNcBjMlrKVXRJ8r/view?pli=1",
-          "icon": "vid"  
-        },
-                {
-          "name": "טפ\"ש חלק ב",
-          "link": "https://drive.google.com/file/d/1ycJNJlpYSPghJJDvaQVKBEsk0nDDO-c6/view",
-          "icon": "vid"  
-        },
-                {
           "name": "מרכזייה",
           "link": "https://drive.google.com/file/d/19U94MxnvwxWvP0hEsT_ZOA-1HU8B-GWJ/view",
+          "icon": "vid"  
+        },
+                        {
+          "name": "בלון מילוט",
+          "link": "https://drive.google.com/file/d/1-IiaZpsMSYkNpF4m2sUIGDUUkDyJvLnb/view?usp=sharing",
           "icon": "vid"  
         }
         
@@ -126,7 +126,29 @@
             "name": "פקלון פלגת הפינוי",
             "link": "https://hativa460.github.io/medical/",
             "icon": "phone"
+        },
+                        {
+          "name": "טפ\"ש חלק א",
+          "link": "https://drive.google.com/file/d/18X5_aFB6WMfJDT3YLGNcBjMlrKVXRJ8r/view?pli=1",
+          "icon": "vid"  
+        },
+                {
+          "name": "טפ\"ש חלק ב",
+          "link": "https://drive.google.com/file/d/1ycJNJlpYSPghJJDvaQVKBEsk0nDDO-c6/view",
+          "icon": "vid"  
+        },
+                        {
+          "name": "טפ\"ש חלק א 2",
+          "link": "https://drive.google.com/file/d/1mJFKGEQOsDqPdxKQU-PvJxO7pe_IYmy0/view?usp=drivesdk",
+          "icon": "vid"  
+        },
+                {
+          "name": "טפ\"ש חלק ב 2",
+          "link": "https://drive.google.com/file/d/1HtT3Kit6gKq--_17yK2-w0bsWnSKgLWi/view?usp=drivesdk",
+          "icon": "vid"  
         }
+        
+        
     ],
     "532": [        
         {
